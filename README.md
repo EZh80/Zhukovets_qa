@@ -2,5 +2,3 @@
 ---
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/13cH-vTmmj0vMu_hm7cGDFcB6gjIEWOXlwXI86k9KmWY/edit?usp=sharing)
 ---
-[Тест-кейсы для teststudy](https://docs.google.com/spreadsheets/d/1jhJWgBPPrmkbLd6HWwR9A1-YgvNgcn5Pmsvt6087g9s/edit?usp=sharing)
----
